@@ -1,0 +1,5 @@
+﻿  Parsing headers for MultiplayerTestEditor
+    Running UnrealHeaderTool "C:\Users\361rj\OneDrive\Desktop\MultiplayerGame\MultiplayerTest\MultiplayerTest.uproject" "C:\Users\361rj\OneDrive\Desktop\MultiplayerGame\MultiplayerTest\Intermediate\Build\Win64\MultiplayerTestEditor\Development\MultiplayerTestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MultiplayerTestEditor in 4.903706 seconds
+  Target is up to date
+  Total execution time: 5.40 seconds

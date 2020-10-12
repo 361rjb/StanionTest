@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiplayerTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C2229184-EC2E-4301-8E6D-D853AF99763A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiplayerTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiplayerTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5D1D13C2-6547-45CD-983B-2B3C2BD88532}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiplayerTest">
+      <UniqueIdentifier>{7B6F8B48-B9DB-4DB9-BFA9-22EC7DD6E586}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiplayerTest\MultiplayerTest.Build.cs">
+      <Filter>Source\MultiplayerTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiplayerTest\MultiplayerTest.cpp">
+      <Filter>Source\MultiplayerTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerTest\MultiplayerTest.h">
+      <Filter>Source\MultiplayerTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiplayerTest\MultiplayerTestCharacter.cpp">
+      <Filter>Source\MultiplayerTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerTest\MultiplayerTestCharacter.h">
+      <Filter>Source\MultiplayerTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiplayerTest\MultiplayerTestGameMode.cpp">
+      <Filter>Source\MultiplayerTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerTest\MultiplayerTestGameMode.h">
+      <Filter>Source\MultiplayerTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

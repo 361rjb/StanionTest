@@ -1,0 +1,1348 @@
+﻿Log file open, 10/12/20 09:11:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231356
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=FrigidDracul -epicuserid=af4dd60438614f349388a6ada8051d3c -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:793][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.12-13.11.39:793][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.12-13.11.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:799][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.12-13.11.39:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.12-13.11.39:800][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.12-13.11.39:800][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.12-13.11.39:800][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.12-13.11.39:811][  0]LogHAL: Display: Platform has ~ 32 GB [34289831936 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.10.12-13.11.39:811][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.12-13.11.39:811][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.12-13.11.39:811][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Scalability.ini]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.12-13.11.39:812][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Config/Windows/Engine.ini]
+[2020.10.12-13.11.39:812][  0]LogInit: Computer: DESKTOP-SH90ONR
+[2020.10.12-13.11.39:812][  0]LogInit: User: 361rj
+[2020.10.12-13.11.39:812][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.12-13.11.39:812][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.12-13.11.39:812][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.10.12-13.11.39:812][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.12-13.11.39:812][  0]LogMemory: Process Physical Memory: 98.89 MB used, 98.89 MB peak
+[2020.10.12-13.11.39:812][  0]LogMemory: Process Virtual Memory: 95.24 MB used, 95.24 MB peak
+[2020.10.12-13.11.39:812][  0]LogMemory: Physical Memory: 6795.74 MB used,  25905.59 MB free, 32701.33 MB total
+[2020.10.12-13.11.39:812][  0]LogMemory: Virtual Memory: 4657.59 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.10.12-13.11.39:829][  0]LogInit: Using OS detected language (en-US).
+[2020.10.12-13.11.39:830][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.12-13.11.39:830][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.12-13.11.39:998][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.12-13.11.40:034][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.12-13.11.40:034][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.12-13.11.40:203][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.10.12-13.11.40:203][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.12-13.11.40:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.10.12-13.11.40:256][  0]LogD3D11RHI:       6052/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.12-13.11.40:258][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.12-13.11.40:258][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.12-13.11.40:258][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.12-13.11.40:264][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.12-13.11.40:264][  0]LogD3D11RHI:     GPU DeviceId: 0x1b83 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.12-13.11.40:264][  0]LogWindows: EnumDisplayDevices:
+[2020.10.12-13.11.40:264][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.10.12-13.11.40:264][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.10.12-13.11.40:265][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.10.12-13.11.40:265][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.10.12-13.11.40:265][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.12-13.11.40:265][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.10.12-13.11.40:265][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.10.12-13.11.40:265][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.10.12-13.11.40:265][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.10.12-13.11.40:302][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.12-13.11.40:314][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.12-13.11.40:314][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.12-13.11.40:314][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.12-13.11.40:322][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.12-13.11.40:591][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.12-13.11.40:603][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.12-13.11.40:616][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.12-13.11.40:628][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.12-13.11.40:640][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.12-13.11.40:652][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.12-13.11.40:665][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.12-13.11.40:677][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.12-13.11.40:683][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.12-13.11.40:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.12-13.11.40:759][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.12-13.11.40:804][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.12-13.11.40:804][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.12-13.11.40:825][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.12-13.11.40:825][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.12-13.11.40:836][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.12-13.11.40:847][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.12-13.11.40:857][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.12-13.11.40:869][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.12-13.11.40:906][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.12-13.11.40:906][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.12-13.11.40:906][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.12-13.11.40:914][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.12-13.11.40:958][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Intermediate/Shaders/WorkingDirectory/8208/).
+[2020.10.12-13.11.40:958][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/361rj/AppData/Local/Temp/UnrealShaderWorkingDir/5F2A4082488E213DFF65DDA49FF231A5/'.
+[2020.10.12-13.11.40:961][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.12-13.11.40:961][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.12-13.11.40:961][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.12-13.11.41:425][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.12-13.11.41:469][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/361rj/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.12-13.11.41:469][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/361rj/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.10.12-13.11.41:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.12-13.11.41:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.12-13.11.41:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.12-13.11.41:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.12-13.11.41:481][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.12-13.11.41:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.12-13.11.41:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.12-13.11.41:493][  0]LogDerivedDataCache: Using Local data cache path C:/Users/361rj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.12-13.11.41:493][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.12-13.11.41:493][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.12-13.11.41:512][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.12-13.11.41:513][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.12-13.11.41:513][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.12-13.11.41:587][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2020.10.12-13.11.41:883][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.12-13.11.41:934][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.12-13.11.41:934][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.12-13.11.41:934][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.12-13.11.41:934][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.12-13.11.41:934][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.12-13.11.42:011][  0]LogNetVersion: MultiplayerTest 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 923642753)
+[2020.10.12-13.11.42:375][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.045471 seconds
+[2020.10.12-13.11.42:381][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.10.12-13.11.42:381][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.10.12-13.11.42:381][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.12-13.11.43:090][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.12-13.11.43:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.12-13.11.43:375][  0]SourceControl: Source control is disabled
+[2020.10.12-13.11.43:375][  0]SourceControl: Source control is disabled
+[2020.10.12-13.11.43:376][  0]SourceControl: Source control is disabled
+[2020.10.12-13.11.43:377][  0]SourceControl: Source control is disabled
+[2020.10.12-13.11.43:443][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.12-13.11.43:557][  0]LogOcInput: OculusInput pre-init called
+[2020.10.12-13.11.44:132][  0]LogEngine: Initializing Engine...
+[2020.10.12-13.11.44:180][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.10.12-13.11.44:181][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.12-13.11.44:363][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.12-13.11.44:375][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.12-13.11.44:417][  0]LogInit: XAudio2 using 'NS24E200NA14 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.12-13.11.44:434][  0]LogInit: FAudioDevice initialized.
+[2020.10.12-13.11.44:434][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.12-13.11.44:507][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/361rj/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.12-13.11.44:511][  0]LogInit: Texture streaming: Enabled
+[2020.10.12-13.11.44:527][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.12-13.11.44:547][  0]LogInit: Transaction tracking system initialized
+[2020.10.12-13.11.44:570][  0]BlueprintLog: New page: Editor Load
+[2020.10.12-13.11.44:689][  0]LocalizationService: Localization service is disabled
+[2020.10.12-13.11.44:966][  0]LogFileCache: Scanning file cache for directory 'C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/' took 0.01s
+[2020.10.12-13.11.44:966][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.12-13.11.44:966][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.12-13.11.45:128][  0]SourceControl: Source control is disabled
+[2020.10.12-13.11.45:146][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2020.10.12-13.11.45:154][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.10.12-13.11.45:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.10.12-13.11.45:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.10.12-13.11.45:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.10.12-13.11.45:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.10.12-13.11.45:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.10.12-13.11.45:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.10.12-13.11.45:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.10.12-13.11.45:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.10.12-13.11.45:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.10.12-13.11.45:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.10.12-13.11.45:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.10.12-13.11.45:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.10.12-13.11.45:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.10.12-13.11.45:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.10.12-13.11.45:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.10.12-13.11.45:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.10.12-13.11.45:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.10.12-13.11.45:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Fire01.uasset"
+[2020.10.12-13.11.45:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.10.12-13.11.45:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.10.12-13.11.45:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.10.12-13.11.45:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Light01.uasset"
+[2020.10.12-13.11.45:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.10.12-13.11.45:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Light02.uasset"
+[2020.10.12-13.11.45:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.10.12-13.11.45:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.10.12-13.11.45:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.10.12-13.11.45:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.10.12-13.11.45:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.10.12-13.11.45:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.10.12-13.11.45:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.10.12-13.11.45:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.10.12-13.11.45:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.10.12-13.11.45:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Steam01.uasset"
+[2020.10.12-13.11.45:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.10.12-13.11.45:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.10.12-13.11.45:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.10.12-13.11.45:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.10.12-13.11.45:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.10.12-13.11.45:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.10.12-13.11.45:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.10.12-13.11.45:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.10.12-13.11.45:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.10.12-13.11.45:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.10.12-13.11.45:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.10.12-13.11.45:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.10.12-13.11.45:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.10.12-13.11.45:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.10.12-13.11.45:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.10.12-13.11.45:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.10.12-13.11.45:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.10.12-13.11.45:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.10.12-13.11.45:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.10.12-13.11.45:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.10.12-13.11.45:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.10.12-13.11.45:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.10.12-13.11.45:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Maps/StarterMap.umap"
+[2020.10.12-13.11.45:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.10.12-13.11.45:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.10.12-13.11.45:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.10.12-13.11.45:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.10.12-13.11.45:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.10.12-13.11.45:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.10.12-13.11.45:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.10.12-13.11.45:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.10.12-13.11.45:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.10.12-13.11.46:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.10.12-13.11.46:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.10.12-13.11.46:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.10.12-13.11.46:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.10.12-13.11.46:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.10.12-13.11.46:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.10.12-13.11.46:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.10.12-13.11.46:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.10.12-13.11.46:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.10.12-13.11.46:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.10.12-13.11.46:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.10.12-13.11.46:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.10.12-13.11.46:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.10.12-13.11.46:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.10.12-13.11.46:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.10.12-13.11.46:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.10.12-13.11.46:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.10.12-13.11.46:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.10.12-13.11.46:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.10.12-13.11.46:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.10.12-13.11.46:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.10.12-13.11.46:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.10.12-13.11.46:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.10.12-13.11.46:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.10.12-13.11.46:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.10.12-13.11.46:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.10.12-13.11.46:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.10.12-13.11.46:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.10.12-13.11.46:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.10.12-13.11.46:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.10.12-13.11.46:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.10.12-13.11.46:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.10.12-13.11.46:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.10.12-13.11.46:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.10.12-13.11.46:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.10.12-13.11.46:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.10.12-13.11.46:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.10.12-13.11.46:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.10.12-13.11.46:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.10.12-13.11.46:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.10.12-13.11.46:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.10.12-13.11.46:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.10.12-13.11.46:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.10.12-13.11.46:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.10.12-13.11.46:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.10.12-13.11.46:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.10.12-13.11.46:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.10.12-13.11.46:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.10.12-13.11.46:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.10.12-13.11.46:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.10.12-13.11.46:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.10.12-13.11.46:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.10.12-13.11.46:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.10.12-13.11.46:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.10.12-13.11.46:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.10.12-13.11.46:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.10.12-13.11.46:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Door.uasset"
+[2020.10.12-13.11.46:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.10.12-13.11.46:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.10.12-13.11.46:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.10.12-13.11.46:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.10.12-13.11.46:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.10.12-13.11.46:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.10.12-13.11.46:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.10.12-13.11.46:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.10.12-13.11.46:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.10.12-13.11.46:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.10.12-13.11.46:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.10.12-13.11.46:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.10.12-13.11.46:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.10.12-13.11.46:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.10.12-13.11.46:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.10.12-13.11.46:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.10.12-13.11.46:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.10.12-13.11.46:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.10.12-13.11.46:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.10.12-13.11.46:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.10.12-13.11.46:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.10.12-13.11.46:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.10.12-13.11.46:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.10.12-13.11.46:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.10.12-13.11.46:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.10.12-13.11.46:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.10.12-13.11.46:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.10.12-13.11.46:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.10.12-13.11.46:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.10.12-13.11.46:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.10.12-13.11.46:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.10.12-13.11.46:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.10.12-13.11.46:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.10.12-13.11.46:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.10.12-13.11.46:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.10.12-13.11.46:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.10.12-13.11.46:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.10.12-13.11.46:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.10.12-13.11.46:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.10.12-13.11.46:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.10.12-13.11.46:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.10.12-13.11.46:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.10.12-13.11.46:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.10.12-13.11.46:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.10.12-13.11.46:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.10.12-13.11.47:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.10.12-13.11.47:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.10.12-13.11.47:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.10.12-13.11.47:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.10.12-13.11.47:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.10.12-13.11.47:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.10.12-13.11.47:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.10.12-13.11.47:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.10.12-13.11.47:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.10.12-13.11.47:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.10.12-13.11.47:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.10.12-13.11.47:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.10.12-13.11.47:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.10.12-13.11.47:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.10.12-13.11.47:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.10.12-13.11.47:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.10.12-13.11.47:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.10.12-13.11.47:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.10.12-13.11.47:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.10.12-13.11.47:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.10.12-13.11.47:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.10.12-13.11.47:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.10.12-13.11.47:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.10.12-13.11.47:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.10.12-13.11.47:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.10.12-13.11.47:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.10.12-13.11.47:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.10.12-13.11.47:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.10.12-13.11.47:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.10.12-13.11.47:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.10.12-13.11.47:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.10.12-13.11.47:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.10.12-13.11.47:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.10.12-13.11.47:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.10.12-13.11.47:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.10.12-13.11.47:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.10.12-13.11.47:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.10.12-13.11.47:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.10.12-13.11.47:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.10.12-13.11.47:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.10.12-13.11.47:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.10.12-13.11.47:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.10.12-13.11.47:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.10.12-13.11.48:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.10.12-13.11.48:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.10.12-13.11.48:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.10.12-13.11.48:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.10.12-13.11.48:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.10.12-13.11.48:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.10.12-13.11.48:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.10.12-13.11.48:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.10.12-13.11.48:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.10.12-13.11.48:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.10.12-13.11.48:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.10.12-13.11.48:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.10.12-13.11.48:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.10.12-13.11.48:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.10.12-13.11.48:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.10.12-13.11.48:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.10.12-13.11.48:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.10.12-13.11.48:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.10.12-13.11.48:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.10.12-13.11.48:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.10.12-13.11.48:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.10.12-13.11.48:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.10.12-13.11.48:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.10.12-13.11.48:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.10.12-13.11.48:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.10.12-13.11.48:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.10.12-13.11.48:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.10.12-13.11.48:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.10.12-13.11.48:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.10.12-13.11.48:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.10.12-13.11.48:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.10.12-13.11.48:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.10.12-13.11.48:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.10.12-13.11.48:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.10.12-13.11.48:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.10.12-13.11.48:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.10.12-13.11.48:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.10.12-13.11.48:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.10.12-13.11.48:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.10.12-13.11.48:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.10.12-13.11.48:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.10.12-13.11.48:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.10.12-13.11.48:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.10.12-13.11.48:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.10.12-13.11.48:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.10.12-13.11.48:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.10.12-13.11.48:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.10.12-13.11.49:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.10.12-13.11.49:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.10.12-13.11.49:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.10.12-13.11.49:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.10.12-13.11.49:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.10.12-13.11.49:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.10.12-13.11.49:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.10.12-13.11.49:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.10.12-13.11.49:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.10.12-13.11.49:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.10.12-13.11.49:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.10.12-13.11.49:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.10.12-13.11.49:398][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.10.12-13.11.49:512][  0]LogSavePackage: Moving '../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Floor_400x4000A9E84354CCB2267812C499911D9B8F7.tmp' to '../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.10.12-13.11.49:517][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.10.12-13.11.49:521][  0]Cmd: MAP LOAD FILE="../../../../../../Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.12-13.11.49:521][  0]LightingResults: New page: Lighting Build
+[2020.10.12-13.11.49:523][  0]MapCheck: New page: Map Check
+[2020.10.12-13.11.49:523][  0]LightingResults: New page: Lighting Build
+[2020.10.12-13.11.49:544][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.10.12-13.11.49:995][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.10.12-13.11.49:995][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.10.12-13.11.49:995][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.10.12-13.11.49:995][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.12-13.11.49:995][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.12-13.11.49:996][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.10.12-13.11.49:996][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.10.12-13.11.49:996][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.10.12-13.11.49:996][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.10.12-13.11.49:996][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2020.10.12-13.11.49:996][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X32)
+[2020.10.12-13.11.49:999][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.12-13.11.50:008][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.12-13.11.50:030][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.12-13.11.50:030][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.12-13.11.50:030][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2020.10.12-13.11.50:030][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.509
+[2020.10.12-13.11.50:141][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.11.50:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.11.50:153][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.11.50:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.11.50:170][  0]LogCollectionManager: Loaded 0 collections in 0.001359 seconds
+[2020.10.12-13.11.50:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Saved/Collections/' took 0.01s
+[2020.10.12-13.11.50:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/Developers/361rj/Collections/' took 0.01s
+[2020.10.12-13.11.50:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Content/Collections/' took 0.01s
+[2020.10.12-13.11.50:218][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.12-13.11.50:227][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2734 classes and 661 folders.
+[2020.10.12-13.11.50:236][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.12-13.11.50:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:242][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:242][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:242][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:244][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:244][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:244][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.12-13.11.50:269][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.12-13.11.50:280][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.12-13.11.50:412][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.12-13.11.50:414][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.12-13.11.50:424][  0]LogSlate: Took 0.006043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.12-13.11.50:492][  0]LogRenderer: Reallocating scene render targets to support 832x556 Format 10 NumSamples 1 (Frame:1).
+[2020.10.12-13.11.50:527][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.12-13.11.50:621][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.12-13.11.50:621][  0]LogLoad: (Engine Initialization) Total time: 12.72 seconds
+[2020.10.12-13.11.50:621][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.12-13.11.50:752][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.12-13.11.52:196][166]LogAssetRegistry: Asset discovery search completed in 10.6320 seconds
+[2020.10.12-13.11.52:198][166]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.10.12-13.11.52:198][166]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2020.10.12-13.13.03:541][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.12-13.13.08:810][733]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.12-13.13.08:813][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.12-13.13.08:814][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.12-13.13.08:814][733]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 12, 2020, 5:13:08 AM)
+[2020.10.12-13.13.08:827][733]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.10.12-13.13.08:840][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012325s)
+[2020.10.12-13.13.08:840][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.12-13.13.08:840][733]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2020.10.12-13.13.08:840][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013305s)
+[2020.10.12-13.13.08:863][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.12-13.13.08:899][733]LogInit: XAudio2 using 'NS24E200NA14 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.12-13.13.08:910][733]LogInit: FAudioDevice initialized.
+[2020.10.12-13.13.08:947][733]LogLoad: Game class is 'MultiplayerTestGameMode'
+[2020.10.12-13.13.08:949][733]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.12-09.13.08
+[2020.10.12-13.13.08:949][733]LogWorld: Bringing up level for play took: 0.001406
+[2020.10.12-13.13.08:971][733]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.10.12-13.13.08:972][733]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.12-13.13.08:972][733]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.10.12-13.13.08:972][733]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.12-13.13.08:972][733]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.10.12-13.13.08:972][733]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.10.12-13.13.08:972][733]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.10.12-13.13.08:973][733]LogInit: WinSock: I am DESKTOP-SH90ONR (10.0.0.203:0)
+[2020.10.12-13.13.08:973][733]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.12-13.13.08:973][733]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.10.12-13.13.08:973][733]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.984
+[2020.10.12-13.13.08:977][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.12-13.13.08:981][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.13.09:013][733]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.10.12-13.13.09:014][733]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.12-13.13.09:014][733]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.10.12-13.13.09:014][733]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.10.12-13.13.09:014][733]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.10.12-13.13.09:014][733]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.12-13.13.09:015][733]LogNet: Game client on port 17777, rate 10000
+[2020.10.12-13.13.09:016][733]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap 1.026
+[2020.10.12-13.13.09:019][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.12-13.13.09:024][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.13.09:051][733]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.10.12-13.13.09:052][733]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.12-13.13.09:052][733]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.10.12-13.13.09:052][733]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.10.12-13.13.09:052][733]LogInit: WinSock: Socket queue 32768 / 32768
+[2020.10.12-13.13.09:052][733]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.12-13.13.09:053][733]LogNet: Game client on port 17777, rate 10000
+[2020.10.12-13.13.09:054][733]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap 1.064
+[2020.10.12-13.13.09:058][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.12-13.13.09:058][733]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49950
+[2020.10.12-13.13.09:058][733]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 048110161209151005099008136224164176062229157163107058098167
+[2020.10.12-13.13.09:058][733]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49951
+[2020.10.12-13.13.09:058][733]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 248106050169012115099235161043069065209129112020173192227173
+[2020.10.12-13.13.09:064][733]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 048110161209151005099008136224164176062229157163107058098167
+[2020.10.12-13.13.09:065][733]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 248106050169012115099235161043069065209129112020173192227173
+[2020.10.12-13.13.09:072][734]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49950
+[2020.10.12-13.13.09:072][734]LogHandshake: SendChallengeAck. InCookie: 048110161209151005099008136224164176062229157163107058098167
+[2020.10.12-13.13.09:072][734]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49950
+[2020.10.12-13.13.09:073][734]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.12-13.13.09:073][734]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 10/12/20 09:13:09, [UNetConnection] RemoteAddr: 127.0.0.1:49950, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.10.12-13.13.09:073][734]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49950, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.10.12-13.13.09:073][734]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49951
+[2020.10.12-13.13.09:073][734]LogHandshake: SendChallengeAck. InCookie: 248106050169012115099235161043069065209129112020173192227173
+[2020.10.12-13.13.09:073][734]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49951
+[2020.10.12-13.13.09:073][734]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.10.12-13.13.09:073][734]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 10/12/20 09:13:09, [UNetConnection] RemoteAddr: 127.0.0.1:49951, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.10.12-13.13.09:073][734]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49951, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.10.12-13.13.09:074][734]LogNetVersion: MultiplayerTest 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4135290069)
+[2020.10.12-13.13.09:074][734]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.10.12-13.13.09:074][734]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.10.12-13.13.09:115][735]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.10.12-13.13.09:115][735]LogNet: Remote platform little endian=1
+[2020.10.12-13.13.09:115][735]LogNet: This platform little endian=1
+[2020.10.12-13.13.09:115][735]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.10.12-13.13.09:115][735]LogNet: Remote platform little endian=1
+[2020.10.12-13.13.09:115][735]LogNet: This platform little endian=1
+[2020.10.12-13.13.09:144][736]LogNet: Login request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E userId: NULL:DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E platform: NULL
+[2020.10.12-13.13.09:144][736]LogNet: Login request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4 userId: NULL:DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4 platform: NULL
+[2020.10.12-13.13.09:145][736]LogNet: Welcomed by server (Level: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Script/MultiplayerTest.MultiplayerTestGameMode)
+[2020.10.12-13.13.09:148][736]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Script/MultiplayerTest.MultiplayerTestGameMode
+[2020.10.12-13.13.09:169][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.10.12-13.13.09:181][736]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.12-13.13.09:181][736]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.12-13.13.09:183][736]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.12-09.13.09
+[2020.10.12-13.13.09:183][736]LogWorld: Bringing up level for play took: 0.001372
+[2020.10.12-13.13.09:184][736]LogLoad: Took 0.035163 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.10.12-13.13.09:184][736]LogNet: Welcomed by server (Level: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Script/MultiplayerTest.MultiplayerTestGameMode)
+[2020.10.12-13.13.09:200][736]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Script/MultiplayerTest.MultiplayerTestGameMode
+[2020.10.12-13.13.09:222][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.10.12-13.13.09:234][736]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.12-13.13.09:234][736]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.10.12-13.13.09:236][736]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_3_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.12-09.13.09
+[2020.10.12-13.13.09:236][736]LogWorld: Bringing up level for play took: 0.001357
+[2020.10.12-13.13.09:236][736]LogLoad: Took 0.035128 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.10.12-13.13.09:251][737]LogNet: Client netspeed is 10000
+[2020.10.12-13.13.09:251][737]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E?SplitscreenCount=1
+[2020.10.12-13.13.09:251][737]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:255][737]LogNet: Join succeeded: DESKTOP-SH90ONR-01C6
+[2020.10.12-13.13.09:255][737]LogNet: Client netspeed is 10000
+[2020.10.12-13.13.09:255][737]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4?SplitscreenCount=1
+[2020.10.12-13.13.09:255][737]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:257][737]LogNet: Join succeeded: DESKTOP-SH90ONR-AAB4
+[2020.10.12-13.13.09:266][738]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.10.12-13.13.09:333][738]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:445][739]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:445][739]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:445][739]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:446][739]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.09:446][739]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.10.12-13.13.16:005][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.12-13.13.16:005][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.13.16:013][515]LogSlate: Window 'MultiplayerTest Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.12-13.13.16:040][515]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.10.12-13.13.16:040][515]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.10.12-13.13.16:040][515]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4, Channels: 13, Time: 2020.10.12-13.13.16
+[2020.10.12-13.13.16:040][515]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4
+[2020.10.12-13.13.16:040][515]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.10.12-13.13.16:041][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.13.16:048][515]LogSlate: Window 'MultiplayerTest Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.12-13.13.16:080][515]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.10.12-13.13.16:080][515]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.10.12-13.13.16:080][515]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E, Channels: 13, Time: 2020.10.12-13.13.16
+[2020.10.12-13.13.16:080][515]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E
+[2020.10.12-13.13.16:080][515]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.10.12-13.13.16:081][515]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.10.12-13.13.16:081][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.13.16:106][515]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.10.12-13.13.16:106][515]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.10.12-13.13.16:106][515]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49951, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4
+[2020.10.12-13.13.16:106][515]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49951, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4, Channels: 13, Time: 2020.10.12-13.13.16
+[2020.10.12-13.13.16:106][515]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49951, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:DESKTOP-SH90ONR-AAB42ABB4664FB49A6719E8B7395E1F4
+[2020.10.12-13.13.16:106][515]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49950, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E
+[2020.10.12-13.13.16:106][515]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49950, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E, Channels: 13, Time: 2020.10.12-13.13.16
+[2020.10.12-13.13.16:106][515]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49950, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-SH90ONR-01C66C17478CC93B16252FB2C9B8991E
+[2020.10.12-13.13.16:106][515]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.10.12-13.13.16:107][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.12-13.13.16:107][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.12-13.13.16:132][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.12-13.13.16:136][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.12-13.13.16:158][516]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.10.12-13.13.16:158][516]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.10.12-13.13.16:158][516]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.10.12-13.13.17:858][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.12-13.16.28:244][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2020.10.12-13.16.29:242][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.12-13.16.29:411][914]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.12-13.16.29:418][914]LogAssetEditorManager: Opening Asset editor for Class /Script/MultiplayerTest.MultiplayerTestCharacter
+[2020.10.12-13.16.30:810][914]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Source/MultiplayerTest/MultiplayerTestCharacter.h'
+[2020.10.12-13.16.30:937][914]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/361rj/OneDrive/Desktop/MultiplayerGame/MultiplayerTest/Source/MultiplayerTest/MultiplayerTestCharacter.cpp'
+[2020.10.12-13.47.18:681][568]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.10.12-13.50.21:086][ 82]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.12-13.50.21:129][ 82]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.12-13.51.01:778][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.12-13.51.01:818][796]LogSlate: Window 'MultiplayerTest - Unreal Editor' being destroyed
+[2020.10.12-13.51.01:985][797]Cmd: QUIT_EDITOR
+[2020.10.12-13.51.02:221][797]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.12-13.51.02:233][797]LogExit: Preparing to exit.
+[2020.10.12-13.51.03:318][797]LogExit: Editor shut down
+[2020.10.12-13.51.03:318][797]LogExit: Transaction tracking system shut down
+[2020.10.12-13.51.03:589][797]LogExit: Object subsystem successfully closed.
+[2020.10.12-13.51.03:604][797]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.12-13.51.03:607][797]LogD3D11RHI: Shutdown
+[2020.10.12-13.51.03:607][797]LogD3D11RHI: CleanupD3DDevice
+[2020.10.12-13.51.03:608][797]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.12-13.51.03:608][797]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.12-13.51.03:608][797]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.12-13.51.03:608][797]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.12-13.51.03:608][797]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.12-13.51.03:608][797]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.12-13.51.03:666][797]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.12-13.51.03:688][797]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2020.10.12-13.51.03:689][797]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2020.10.12-13.51.03:690][797]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2020.10.12-13.51.03:691][797]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2020.10.12-13.51.03:691][797]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2020.10.12-13.51.03:691][797]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2020.10.12-13.51.03:691][797]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2020.10.12-13.51.03:691][797]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2020.10.12-13.51.04:066][797]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2020.10.12-13.51.04:067][797]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.10.12-13.51.04:109][797]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.10.12-13.51.04:110][797]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2020.10.12-13.51.04:112][797]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2020.10.12-13.51.04:331][797]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module MultiplayerTest (296)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.10.12-13.51.04:332][797]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.10.12-13.51.04:433][797]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.10.12-13.51.04:534][797]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.10.12-13.51.04:534][797]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.10.12-13.51.04:535][797]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.10.12-13.51.04:535][797]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.10.12-13.51.04:535][797]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.10.12-13.51.04:536][797]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.10.12-13.51.04:537][797]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.10.12-13.51.04:538][797]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.10.12-13.51.04:538][797]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.10.12-13.51.04:538][797]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.10.12-13.51.04:538][797]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.10.12-13.51.04:538][797]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.10.12-13.51.04:538][797]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.10.12-13.51.04:636][797]LogDerivedDataCache: Shutdown
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.10.12-13.51.04:636][797]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.10.12-13.51.04:637][797]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.10.12-13.51.04:638][797]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.10.12-13.51.04:638][797]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.10.12-13.51.04:638][797]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.10.12-13.51.04:638][797]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.10.12-13.51.04:642][797]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.10.12-13.51.04:643][797]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.12-13.51.04:643][797]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.10.12-13.51.04:644][797]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.10.12-13.51.04:644][797]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.10.12-13.51.04:644][797]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.10.12-13.51.04:644][797]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.10.12-13.51.04:644][797]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.10.12-13.51.04:644][797]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.10.12-13.51.04:650][797]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.10.12-13.51.04:650][797]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.12-13.51.04:650][797]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B489CF29B-4268-59B2-E94C-B4A90D381AB2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=421d23ca4ee072315226bb86cacec289%7Caf4dd60438614f349388a6ada8051d3c%7C7598f645-20f0-4d72-b658-b514de28ccee&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.12-13.51.04:651][797]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.10.12-13.51.04:652][797]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.10.12-13.51.04:653][797]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.10.12-13.51.04:659][797]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.10.12-13.51.04:659][797]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.10.12-13.51.04:659][797]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.12-13.51.04:660][797]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.12-13.51.04:666][797]LogExit: Exiting.
+[2020.10.12-13.51.04:678][797]Log file closed, 10/12/20 09:51:04
